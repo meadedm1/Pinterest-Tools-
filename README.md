@@ -1,4 +1,4 @@
-# Pinterest-Tools-
+# Pinterest-Tools
 Pinterest Pin Creation Tool for UGC 
 Gogopin Pro — Pinterest Marketing Tool
 Create Pinterest pins that get found, saved, and clicked — without guessing.
