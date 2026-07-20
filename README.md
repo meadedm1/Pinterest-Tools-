@@ -7,6 +7,7 @@ Gogopin Pro is an AI-powered Pinterest marketing app built for beginners, solopr
 What It Does
 
 Gogopin Pro generates a complete Pin Kit from a single input. Here's what you get every time:
+
 Feature
 
 What You Get
