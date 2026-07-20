@@ -46,7 +46,7 @@ Copy-paste prompts for Canva AI & Ideogram
 How to Use It
 
 Step 1 — Open the file
-Open gogopin-pro.html in any modern web browser (Chrome, Safari, Firefox, Edge). No installation, no login, no setup required.
+Open  in any modern web browser (Chrome, Safari, Firefox, Edge). No installation, no login, no setup required.
 Step 2 — Fill in your pin details
 Complete the input form on the left side:
 What is your pin about? — Be as specific as possible. Mention your product, blog post, freebie, or topic. The more detail you give, the better your output.
