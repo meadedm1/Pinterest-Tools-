@@ -65,10 +65,9 @@ Each section has a Copy button. Paste into Pinterest, Canva, Ideogram, or your s
 
 *Enter 3–5 text variations. Choose a color palette. The tool generates the rest.*
 
-### Output: Download Your Pins
-![Grid of 12 auto-generated Pinterest pins with different layouts and colors](screenshots/03-output-grid.png)
+### Output: Download Your Pin(s)
 
-*All 50 pins download as a ZIP. Ready to upload to Pinterest.*
+
 
 ### Input (What you provide)
 "A blog post about 5 easy meal prep ideas for busy working moms, linking to a free weekly meal plan PDF download"
@@ -96,7 +95,7 @@ Include: A bowl of colorful prepped vegetables, natural lighting
 
 ---
 
-## 💡 Input Tips (Better Input = Better Output)
+## Input Tips (Better Input = Better Output)
 
 ✅ Describe what the pin **links to** (blog post, product page, freebie, video)
 ✅ Mention your **offer** if there is one (e.g., "free meal plan PDF")
@@ -108,7 +107,7 @@ Include: A bowl of colorful prepped vegetables, natural lighting
 
 ---
 
-## 🎨 How to Use AI Design Prompts
+##  How to Use AI Design Prompts
 
 ### Canva AI (Magic Media)
 1. Copy the prompt from the **Canva AI tab**
@@ -124,7 +123,7 @@ Include: A bowl of colorful prepped vegetables, natural lighting
 
 ---
 
-## 📌 How to Use Board Ideas
+## How to Use Board Ideas
 
 Your 5 suggested boards are keyword-optimized and audience-aligned.
 
@@ -159,24 +158,14 @@ After generating, you'll see three scores:
 | **Installation** | None — just open in a browser |
 | **Data Privacy** | Runs locally in your browser (no data stored on servers) |
 
----
+**********Creative Commons Attribution-NonCommercial License***********
 
-## 🌐 Host Online (Optional)
+You can share and modify this work, but NOT for commercial purposes.
+For commercial use, contact theugcmaverik@gmail.com.
 
-Want to share this with your team or clients? Host it free on GitHub Pages.
 
-### GitHub Pages Setup
-1. Create a new GitHub repository
-2. Upload gogopin-pro.html and rename it to index.html
-3. Go to **Settings** → **Pages** → Set source to main branch
-4. Your tool will be live at: https://yourusername.github.io/repo-name
 
-### Other Hosting Options
-- **Netlify** — Drag & drop your HTML file (free)
-- **Vercel** — Automatic deployment from GitHub
-- **Firebase Hosting** — Google's free static hosting
-
----
+**********For personal/educational use only, you may self-host using GitHub Pages or Netlify.**********
 
 ## 📋 Files Included
 
